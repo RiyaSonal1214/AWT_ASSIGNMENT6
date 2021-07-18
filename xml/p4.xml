@@ -1,0 +1,38 @@
+<?xml version = "1.0"?>  
+<?xml-stylesheet type = "text/xsl" href = "p4.xsl"?>   
+<class>   
+   <employee id = "111">  
+      <firstname> Divyank </firstname>
+   <lastname> Singh </lastname>
+   <middlename> Sikarwar </middlename> 
+      <fathername> Ajay Sikarwar </fathername>
+       <dob>12-03-1999</dob>
+       <city>Udupi</city>
+       <state>Karnataka</state>
+       <qualification>MCA</qualification>
+       <salary>58500</salary>
+   </employee>   
+   <employee id = "112">   
+     <firstname> Anush </firstname>
+   <lastname> Gill </lastname>
+   <middlename> Singh </middlename>
+      <fathername> Suresh Singh Gill </fathername>
+       <dob>14-09-1998</dob>
+       <city>Manglore</city>
+       <state>Karnataka</state>
+       <qualification>MCA</qualification>
+       <salary>1050500</salary>ss
+   </employee>
+   
+   <employee id = "113">   
+      <firstname> Himanshi </firstname>
+   <lastname> Sharma </lastname>
+   <middlename> S </middlename>
+     <fathername> Vijay Sharma </fathername>
+       <dob>01-06-1999</dob>
+       <city>Udupi</city>
+       <state>Karnataka</state>
+       <qualification>BCA</qualification>
+       <salary>45500</salary>
+   </employee>   
+</class>  
